@@ -1,6 +1,6 @@
 # ml_class
 
-Homework code for a machine learning course taught by Jude Shavlik at Informatica. We implemented several different models from scratch, and tested them on a dataset.
+Homework code for a machine learning course. We implemented several different models from scratch, and tested them on a dataset.
 Here are the topics for the homeworks:
 1. $k$-Nearest Neighbors
 2. Decision Trees (ID3) and Random Forest
